@@ -1,0 +1,18 @@
+mode: set
+wallet-service/handler/wallet_handler.go:14.65,20.2 4 0
+wallet-service/handler/wallet_handler.go:22.61,28.2 4 0
+wallet-service/handler/wallet_handler.go:30.64,36.16 4 0
+wallet-service/handler/wallet_handler.go:36.16,39.3 2 0
+wallet-service/handler/wallet_handler.go:40.2,40.35 1 0
+wallet-service/service/wallet_service.go:9.33,15.2 2 0
+wallet-service/service/wallet_service.go:17.41,29.2 5 0
+wallet-service/service/wallet_service.go:31.51,34.12 2 0
+wallet-service/service/wallet_service.go:34.12,36.3 1 0
+wallet-service/service/wallet_service.go:37.2,37.29 1 0
+wallet-service/service/wallet_service.go:37.29,39.3 1 0
+wallet-service/service/wallet_service.go:41.2,50.12 5 0
+wallet-service/main.go:9.13,16.2 5 0
+wallet-service/repository/wallet_repository.go:8.37,10.2 1 0
+wallet-service/repository/wallet_repository.go:12.50,15.2 2 0
+wallet-service/repository/wallet_repository.go:17.43,19.2 1 0
+wallet-service/repository/wallet_repository.go:21.43,23.2 1 0
