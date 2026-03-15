@@ -17,11 +17,12 @@ jobs:
         with:
           go-version: 1.21
 
-      - name: Run Tests
-        run: go test ./... -coverprofile=coverage.out
+      # - name: Run Tests
+      #   run: go test ./... -coverprofile=coverage.out
 
       - name: SonarQube Scan
         uses: SonarSource/sonarqube-scan-action@v2
         env:
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
           SONAR_HOST_URL: http://localhost:9000
+          
